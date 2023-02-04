@@ -1,4 +1,4 @@
-export default tokensInfo {
+export default{
     "tokens": [
         {
             "name": "ATOM",
