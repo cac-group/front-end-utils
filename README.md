@@ -1,7 +1,7 @@
 ## **Adding new assets to the catalog**
 
-The asset list is controlled to avoid fake or spam listings -- no reasonable requests will be denied 
-Please read and take care with your addition to ensure quick integration
+The asset list is controlled to avoid fake or spam listings -- no reasonable requests will be denied<br>
+Please read and take care with your addition to ensure quick integration<br>
 *https://jsonlint.com/* can help verify formatting
 
 ## **Requirements and listing process**
