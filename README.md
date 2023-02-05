@@ -55,20 +55,11 @@ Any native IBC token, CW20 or otherwise that can be sent to Juno chain can be ad
 			"name": "WYND",
 			"denomJuno": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
 			"exp": "1000000"
-		},
-		{
-			"name": "GKEY",
-			"denomJuno": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
-			"exp": "1000000"
 		}
 	],
 	"cw20": [{
 			"name": "WYND",
 			"contract": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9"
-		},
-		{
-			"name": "GKEY",
-			"contract": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh"
 		}
 	],
 	"ibc": [{
