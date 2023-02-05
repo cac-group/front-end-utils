@@ -8,7 +8,7 @@ Please read and take care with your addition to ensure quick integration<br>
 Any native IBC token, CW20 or otherwise that can be sent to Juno chain can be added.
 
 -Fork this repo<br>
--Add token information to [*tokens.js*](https://github.com/cac-group/front-end-utils/blob/main/tokens.js) [*information must be complete - resources included at end of page*]<br>
+-Add token information to [*tokens.json*](https://github.com/cac-group/front-end-utils/blob/main/tokens.json) [*information must be complete - resources included at end of page*]<br>
 -Upload a clear, 400x400 .png image labelled by-denom to [*/front-end-utils/logos/*](https://github.com/cac-group/front-end-utils/tree/main/logos)
 
 <br>
