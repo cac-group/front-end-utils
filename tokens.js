@@ -48,7 +48,7 @@ export default {
         },
         {
             "name": "GKEY",
-            "denomJuno": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
+            "contract": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
         },
     ],
     "ibc": [
