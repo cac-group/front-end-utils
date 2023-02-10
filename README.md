@@ -2,6 +2,7 @@
 
 The asset list is controlled to avoid fake or spam listings -- no reasonable requests will be denied<br>
 Please read and take care with your addition to ensure quick integration<br>
+https://jsonlint.com can help verify formatting<br>
 
 ## **Requirements and listing process**
 
@@ -9,7 +10,7 @@ Any native IBC token, CW20 or otherwise that can be sent to Juno chain can be ad
 
 -Fork this repo<br>
 -Add token information to [*tokens.json*](https://github.com/cac-group/front-end-utils/blob/main/tokens.json) [*information must be complete - resources included at end of page*]<br>
--Upload a clear, 400x400 .png image labelled by-denom to [*/front-end-utils/logos/*](https://github.com/cac-group/front-end-utils/tree/main/logos)
+-Upload a clear ~400x400 .png image labelled by-denom to [*/front-end-utils/logos/*](https://github.com/cac-group/front-end-utils/tree/main/logos)
 
 <br>
 
