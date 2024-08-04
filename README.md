@@ -103,10 +103,12 @@ Any native IBC token, CW20 or otherwise that can be sent to Juno chain can be ad
 
 ## RESOURCES
 
+**General chain information, IBC denoms decoding ++**
+https://t.me/Cosmos_Directory_bot
+
 **IBC token info**<br>
 https://www.mintscan.io/juno/assets<br>
 https://www.mintscan.io/juno/relayers<br>
-https://github.com/CosmosContracts/junoswap-asset-list *[recently deprecated]*<br>
 
 **CW20 token info**<br>
 https://www.mintscan.io/juno/wasm<br>
