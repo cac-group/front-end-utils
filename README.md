@@ -105,7 +105,7 @@ Any native IBC token, CW20 or otherwise that can be sent to Juno chain can be ad
 
 ## RESOURCES
 
-**General chain information, IBC denoms decoding ++**
+**General chain information, IBC denoms decoding++**<br>
 https://t.me/Cosmos_Directory_bot
 
 **IBC token info**<br>
